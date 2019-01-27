@@ -103,7 +103,7 @@ section .section-title {
       <div class="container">
         <section id="tabs">
           <div class="container" id="t"> 
-            <h6 class="section-title h1">Tabs</h6>
+            <h6 class="section-title h1">CISRO Organisational History</h6>
             <div class="row">
               <div class="col-xs-12 ">
                 <nav>
@@ -116,18 +116,17 @@ section .section-title {
                 </nav>
                 <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
                   <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-                    At CSIRO, we do the extraordinary every day. We innovate for tomorrow and help improve today - for our customers, all Australians and the world.
-
-                    We imagine. We collaborate. We innovate.</div>
+                  At CSIRO, we do the extraordinary every day. We innovate for tomorrow and help improve today - for our customers, all Australians and the world.
+We imagine. We collaborate. We innovate.</div>
                   <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                     Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
                   </div>
                   <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
-                    <p id="sankey_multiple" style="padding: 20px;"></p>                    </div>
+                    <p id="sankey_multiple" style="padding: 55px;"></p>                    </div>
                   <div class="tab-pane fade" id="nav-about" role="tabpanel" aria-labelledby="nav-about-tab">
-                    We do the extraordinary every day. We innovate for tomorrow and help improve today – for our customers, all Australians and the world.<br>
+                  We do the extraordinary every day. We innovate for tomorrow and help improve today – for our customers, all Australians and the world.<br>
 
-                    <b>At the Commonwealth Scientific and Industrial Research Organisation (CSIRO), we shape the future. We do this by using science to solve real issues. Our research makes a difference to people, industry and the planet.</b>
+<b>At the Commonwealth Scientific and Industrial Research Organisation (CSIRO), we shape the future. We do this by using science to solve real issues. Our research makes a difference to people, industry and the planet.</b>
 </div>
                 </div>
               
@@ -264,7 +263,7 @@ fclose($myfile);
         chart.draw(data, options);
     }
 </script>
-    <script>
+    <!-- <script>
 	
       var units = "Widgets";
       
@@ -363,7 +362,7 @@ fclose($myfile);
         }
       });
       
-      </script>
+      </script> -->
       
   </body>
 
